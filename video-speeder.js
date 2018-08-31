@@ -6,9 +6,9 @@
 // It works in any website with video. YouTube, Udemy, Frontend Masters...
 
 
-function speedMe() {
-    return document.getElementsByTagName("video")[0].playbackRate = 3;
+function speedMe(r) {
+    return document.getElementsByTagName("video")[0].playbackRate = r;
     };
-speedMe();
+speedMe(3);
 
-// <3 You're welcome. (bow)
+// <3 You're welcome. (bow) Don't try 4 or 5, it is unwatchable :)
