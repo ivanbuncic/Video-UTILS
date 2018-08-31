@@ -5,6 +5,8 @@
 
 // It works in any website with video. YouTube, Udemy, Frontend Masters...
 
+// Just hit F12 in the browser, paste the code below and hit enter.. You are now watching the video 3X speed.
+
 
 function speedMe(r) {
     return document.getElementsByTagName("video")[0].playbackRate = r;
