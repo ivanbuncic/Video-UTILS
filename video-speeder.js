@@ -3,7 +3,7 @@
 
 // We don't have time for 1x speed. Even 2x is not enough. So let's watch 3 x the speed.
 
-// It works in any website with video. YouTube, Udemy, Frontend Masters...
+// It works in any website with video. YouTube, Udemy...
 
 // Just hit F12 in the browser, paste the code below and hit enter.. You are now watching the video 3X speed.
 
