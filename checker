@@ -1,6 +1,0 @@
-// Check all Udemy videos and uncheck them
-
-function uncheckAll() {
-let checks = document.querySelectorAll(['input[id*="checkbox-"]']);
-checks.forEach((el) => el.checked = false;
-}
